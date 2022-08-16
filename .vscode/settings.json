@@ -1,0 +1,34 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\vsCodeProjects\\sdlTest",
+            "binaryPath": "c:\\vsCodeProjects\\sdlTest\\main",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\vsCodeProjects\\sdlTest",
+            "binaryPath": "c:\\vsCodeProjects\\sdlTest\\game",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\vsCodeProjects\\sdlTest",
+            "binaryPath": "c:\\vsCodeProjects\\sdlTest\\game_run",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\vsCodeProjects\\sdlTest",
+            "binaryPath": "c:\\vsCodeProjects\\sdlTest\\start_run",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\vsCodeProjects\\sdlTest",
+            "binaryPath": "c:\\vsCodeProjects\\sdlTest\\start",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp"
+    }
+}
