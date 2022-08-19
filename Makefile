@@ -3,7 +3,7 @@ OBJS = start.cpp
 
 # add header files here
 
-HDRS = start_functions.hpp
+HDRS = defconst.hpp 
 
 #CC specifies which compiler we're using
 CC = g++
