@@ -1,8 +1,8 @@
-#ifndef INIT_H
-#define INIT_H
 #include <stdio.h>
-#include <SDL2/SDL.h>
-#include <SDL2/SDL_image.h>
+#include "defconst.hpp"
+
+#ifndef INIT_HPP
+#define INIT_HPP
 
 SDL_Window *window = NULL;
 SDL_Surface *image = NULL;
